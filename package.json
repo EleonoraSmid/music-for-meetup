@@ -1,0 +1,24 @@
+{
+  "name": "music-for-meetup",
+  "version": "0.0.1",
+  "description": "Music for meetups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamonGebben/music-for-meetup.git"
+  },
+  "keywords": [
+    "Music",
+    "Meetup",
+    "Awesome"
+  ],
+  "author": "Ramon Gebben <ramon@ra-ge.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamonGebben/music-for-meetup/issues"
+  },
+  "homepage": "https://github.com/RamonGebben/music-for-meetup#readme"
+}
